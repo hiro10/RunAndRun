@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
+    public int test1;
     // Start is called before the first frame update
     void Start()
     {
