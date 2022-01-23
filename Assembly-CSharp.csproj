@@ -54,6 +54,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Resouace\ModularRPGHeroesPBR\TPController\Scripts\AnimatorMatcher.cs" />
+    <Compile Include="Assets\Resouace\ModularRPGHeroesPBR\TPController\Scripts\ControlManager.cs" />
+    <Compile Include="Assets\Resouace\ModularRPGHeroesPBR\TPController\Scripts\BoolOperator1.cs" />
+    <Compile Include="Assets\Resouace\ModularRPGHeroesPBR\TPController\Scripts\ResetTimer.cs" />
+    <Compile Include="Assets\Resouace\ModularRPGHeroesPBR\TPController\Scripts\CameraManager.cs" />
+    <Compile Include="Assets\Resouace\ModularRPGHeroesPBR\TPController\Scripts\BoolOperator2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Resouace\ModularRPGHeroesPBR\Shader\PBRMaskTint.shader" />
+    <None Include="Assets\Resouace\ModularRPGHeroesPBR\SRP\HowToTestSRPs.txt" />
+    <None Include="Assets\Resouace\ModularRPGHeroesPBR\ReadMe.txt" />
+    <None Include="Assets\Resouace\RPGMonsterWave02PBR\Shaders\PBRMaskTint.shader" />
+    <None Include="Assets\Resouace\RPGMonsterWave02PBR\SRP\HowToTestSRPs.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
